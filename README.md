@@ -1,5 +1,5 @@
 # Computing-Physic
-Computung Physic
+
 ex1 : truncation error - sum up & sum down
 
 ex2 : truncation error - different integrate formula 
