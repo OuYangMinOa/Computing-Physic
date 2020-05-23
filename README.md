@@ -19,3 +19,11 @@ ex8 : Schrödinger equation - (eigenvalue problem) 𝜓(𝑥,𝑜) => 𝜓(𝑥,
 ex9 : FFT vs DFT - (Fast Fourier Transform vs Discrete Fourier Transform)
 
 ex10: Schrödinger equation - Crank-Nicholson method 
+
+# Language
+
+Jilua
+
+Python
+
+C++
